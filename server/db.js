@@ -27,7 +27,7 @@ knex.schema
         // and increment "id" with every new record (book)
         return knex.schema.createTable('books', (table)  => {
           table.increments('id').primary()
-          table.integer('author')
+          table.string('author')
           table.string('title')
           table.string('pubDate')
           table.integer('rating')
