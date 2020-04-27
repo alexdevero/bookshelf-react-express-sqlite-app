@@ -40,3 +40,11 @@ Feel free to check [issues page](https://github.com/alexdevero/bookshelf-react-e
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+If you feel generous and want to show some extra appreciation:
+
+[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
+
+[buymeacoffee]: https://www.buymeacoffee.com/alexdevero
+[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
+
