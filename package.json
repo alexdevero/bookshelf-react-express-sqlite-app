@@ -48,7 +48,7 @@
     "test": "react-scripts test --env=jsdom"
   },
   "dependencies": {
-    "axios": "0.21.1",
+    "axios": "0.21.2",
     "body-parser": "1.19.0",
     "compression": "1.7.4",
     "cors": "2.8.5",
